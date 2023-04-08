@@ -1,6 +1,8 @@
 # Vertex-AI
 Vertex AI is a machine learning (ML) platform that lets you train and deploy ML models and AI applications. 
 
+Youtub video link : https://www.youtube.com/watch?v=oeRn13i28DE
+
 Vertex AI provides several options for model training:
 1. AutoML lets you train tabular, image, text, or video data without writing code or preparing data splits.
 2. Custom training gives you complete control over the training process, including using your preferred ML framework, writing your own training code, and choosing hyperparameter tuning options.
